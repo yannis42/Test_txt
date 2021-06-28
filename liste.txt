@@ -1,8 +1,8 @@
-mousqueton Mousqueton
+mousqueton  Mousqueton
 gants Gants d’intervention
-brassard Brassard de sécurité
-menottes Porte menottes
-cyno Bandeau agent cynophile
+brassard  Brassard de sécurité
+menottes  Porte menottes
+cyno  Bandeau agent cynophile
 talky Talkies walkies
 lampe Lampe Torche
 kit Kit oreillette
